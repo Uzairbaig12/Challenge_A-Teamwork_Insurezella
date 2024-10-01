@@ -5,5 +5,5 @@ and the db folder is in the database file so https://localhost/phpmyadmin go the
 firstly go into the plugins folder which is in the wp-content folder of the project in the plugin folder extract all .zip files click and Exttact here process
 then go to the themes folder which is in the wp-content folder of the project in the themes folder extract all .zip files click and Exttact here process
 firstly you to go to the wp-config file and change database_name database_username and database_paasword that you previously written the database name and username by default is root and password is empty that you written in wp-config file
-and go to the https://localhost/phpmyadmin in which you recently database imported go and look for the wp-options table in which wp_blog_url and wp_site_url row both rows changed the URL to https://localhost/(you htdocs folder name) do this to both the tables
+and go to the https://localhost/phpmyadmin in which you recently database imported go and look for the wpob-options table in which wp_blog_url and wp_site_url row both rows changed the URL to https://localhost/(you htdocs folder name) do this to both the tables
 then go on https://localhost/wp-admin and entered the username and password and username is admin for this password is Karachi123$#@!~ and click enter then you go on to wordpress dashboard
